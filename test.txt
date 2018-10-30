@@ -6,5 +6,11 @@ RSA key fingerprint is xx.xx.xx.xx.xx.
 asdf
 
 bubuwo
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
+Creating a new branch is quick and simple.
 Are you sure you want to continue connecting (yes/no)?r
